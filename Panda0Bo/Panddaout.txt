@@ -1,0 +1,2982 @@
+from panda3d.core import *
+
+sepand1=DirectionalLight("sela")
+
+render.attachNewNode(sepand1)
+
+sepand1.setHpr(0,-92,0)
+render.setLight(sepand1)
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+import time
+import threading
+import keyboard
+difa=threading.Thread(target=vinen)
+difa.start()
+
+from Lt1 import *
+
+run()
+
+from Lt1 import *
+
+run()
+
+import Lt1
+
+run()
+
+import Lt1
+
+Lt1.run()
+
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+import time
+import threading
+import keyboard
+difa=threading.Thread(target=vinen)
+difa.start()
+
+import Lt1
+
+Lt1.run()
+
+import Lt1
+
+Lt1.run()
+
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+import time
+import threading
+import keyboard
+difa=threading.Thread(target=vinen)
+difa.start()
+
+import Lt1
+
+Lt1.run()
+
+import Lt1
+
+Lt1.run()
+
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+import time
+import threading
+import keyboard
+difa=threading.Thread(target=vinen)
+difa.start()
+
+from Lt1 import *
+
+run()
+
+mas.setHpr(0,-92,0)
+
+print(sano.getHpr())
+
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+import time
+import threading
+import keyboard
+difa=threading.Thread(target=vinen)
+difa.start()
+
+from Lt1 import *
+
+run()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while morun>0:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+def moverun():
+	global difa
+	global morun
+	if morun==0:
+		difa=threading.Thread(target=vinen)
+		difa.start()
+		morun=1
+	else:
+		morun=0
+
+
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while morun>0:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+def moverun():
+	global difa
+	global morun
+	if morun==0:
+		difa=threading.Thread(target=vinen)
+		morun=1
+		difa.start()
+	else:
+		morun=0
+
+
+
+moverun()
+
+
+moverun()
+
+
+moverun()
+
+
+moverun()
+
+
+moverun()
+
+
+moverun()
+
+
+moverun()
+
+
+moverun()
+
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while Panda0Box.pamo.taskMgr!=None:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+def moverun():
+	global difa
+	global morun
+	if morun==0:
+		difa=threading.Thread(target=vinen)
+		morun=1
+		difa.start()
+	else:
+		morun=0
+
+
+
+moverun()
+
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while Panda0Box.pamo.taskMgr!=None:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+def moverun():
+	global difa
+	global morun
+	if morun==0:
+		difa=threading.Thread(target=vinen)
+		morun=1
+		difa.start()
+	else:
+		morun=0
+
+moverun()
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while Panda0Box.pamo.taskMgr!=None:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+moverunr=subprocess.Popen("vinen()",stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+def vinen():
+	bse=0
+	while Panda0Box.pamo.taskMgr!=None:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+moverunr=subprocess.Popen([sys.executable, "-c", "vinen()"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while Panda0Box.pamo.taskMgr!=None:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+
+moverunr=subprocess.Popen([sys.executable, "-c", "vinen()"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+	
+
+moverunr=subprocess.Popen([sys.executable, "-c", "vinen()"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+	
+
+moverunr=subprocess.Popen([sys.executable, "-c", "print(\"Tnsa\")"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+	
+
+moverunr=subprocess.Popen([sys.executable, "-c", "print(\"Tnsa\")"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+
+
+moverunr=subprocess.Popen([sys.executable, "-c", "print(\"Tnsa\")"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+	
+
+moverunr=subprocess.Popen(vinen(),stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+	
+
+moverunr=subprocess.Popen(vinen,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+def vinen():
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+	
+
+
+
+
+moverunr=subprocess.Popen([sys.executable, "-c", "vinen()"],stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+
+
+moverunr=subprocess.Popen( "vinen()",stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+
+
+
+
+from direct.actor.Actor import Actor
+import time
+import subprocess
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+class vinen():
+	def __init__(self):
+		mover=subprocess.run("self.run()")
+
+	def run(self):
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+class vinen():
+	def __init__(self):
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+morun=0
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+bse=0
+class vinen():
+	def __init__(self):
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+#runi=vinen()
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+		mover.start()
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+		mover.start()
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=multiprocessing.Process(name="morun",target=self.run)
+		mover.daemon=True
+		mover.start()
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=multiprocessing.Process(name="morun",target=run)
+		mover.start()
+
+
+def run():
+	print("Mostart")
+	while True:
+		while keyboard.is_pressed("w"):
+			sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=threading.Thread(target=self.run)
+		mover.start()
+
+
+	def run():
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+		mover=threading.Thread(target=self.run)
+		mover.start()
+
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.mover=threading.Thread(target=self.run)
+		self.mover.start()
+
+
+	def run(self):
+		print("Mostart")
+		while True:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.mover=threading.Thread(target=self.run)
+		self.mover.start()
+
+
+	def run(self):
+		print("Mostart")
+		global bse
+		while True:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=1
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.mover=threading.Thread(target=self.run)
+		self.mover.start()
+		self.srun=0
+
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=1
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.mover=threading.Thread(target=self.run)
+		self.mover.start()
+		self.srun=0
+
+	def run(self):
+		print("Mostart")
+		global bse
+		while self!=None:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=1
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.mover=threading.Thread(target=self.run)
+		self.mover.start()
+
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+runi.srun=0
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen(prende):
+	def __init__(self):
+		self.prende=prende
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.prende!=None:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen(prende):
+	def __init__(self):
+		self.prende=prende
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.prende!=None:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen(render)
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self,prende):
+		self.prende=prende
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.prende!=None:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen(render)
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self,prende):
+		self.prende=prende
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		global nrun
+		while nrun>0 and self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		global nrun
+		while nrun>0 and self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		global nrun
+		while nrun>0 and self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		global nrun
+		while nrun>0 and self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+run.runa()
+
+runi.runa()
+
+runi.runa()
+
+runi.runa()
+
+runi.runa()
+
+runi.runa()
+
+from direct.actor.Actor import Actor
+import time
+import multiprocessing
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+bse=0
+class vinen():
+	from direct.actor.Actor import Actor
+	import time
+	import multiprocessing
+	import sys
+	import keyboard
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+bse=0
+class vinen():
+	def __init__(self):
+		from direct.actor.Actor import Actor
+		import time
+		import multiprocessing
+		import sys
+		import keyboard
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+bse=0
+class vinen():
+	def __init__(self):
+		from direct.actor.Actor import Actor
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		import multiprocessing
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		import keyboard
+		import time
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+bse=0
+class vinen():
+	def __init__(self):
+		from direct.actor.Actor import Actor
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		import multiprocessing
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+			self.mover.join()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		import keyboard
+		import time
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+rubi=vinen()
+
+rua=vinen()
+		
+
+bse=0
+class vinen():
+	def __init__(self,safeb):
+		self.srun=0
+		self.sano=safeb
+		self.runa()
+
+	def runa(self):
+		import multiprocessing
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+			self.mover.join()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		import keyboard
+		import time
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen(sano)
+
+bse=0
+class vinen():
+	def __init__(self,safeb):
+		self.srun=0
+		self.sano=safeb
+		self.runa()
+
+	def runa(self):
+		import multiprocessing
+		if self.srun==0:
+			self.srun+=1
+			self.mover=multiprocessing.Process(target=self.run)
+			self.mover.start()
+			self.mover.join()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		import keyboard
+		import time
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				#self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen(sano)
+
+import multiprocessing
+
+import multiprocessing
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen():
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.srun=0
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+
+	def runa(self):
+		if self.srun==0:
+			self.srun+=1
+			self.mover=threading.Thread(target=self.run)
+			self.mover.start()
+		elif self.srun>0:
+			self.srun-=1
+	
+	def run(self):
+		print("Mostart")
+		global bse
+		while self.srun>0:
+			while keyboard.is_pressed("w"):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+
+
+bse=0
+class vinen(DirectObject.DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+
+
+bse=0
+class vinen(DirectObject.DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject
+
+
+bse=0
+class vinen(DirectObject.DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject
+
+
+bse=0
+class vinen(DirectObject.DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+		self.runa()
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject
+
+
+bse=0
+class vinen(DirectObject.DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+import direct.showbase.DirectObject
+
+
+bse=0
+class vinen(DirectObject.DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+				self.sano.setPos(-bse,0,0)
+				bse+=1*mopspeed
+				time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("mouse1",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.accept("%w",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		
+		while render.base.mouseWatcherNode(self.tke):
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		global Panda0Box
+		while Panda0Box.pamo.mouseWatcherNode(self.tke):
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		global Panda0Box
+		while Panda0Box.pamo.mouseWatcherNode.is_button_down(self.tke):
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		global Panda0Box
+		while Panda0Box.pamo.mouseWatcherNode.is_button_down(self.tke):
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		global Panda0Box
+		if Panda0Box.pamo.mouseWatcherNode.is_button_down(self.tke):
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		global Panda0Box
+		dis=Panda0Box.pamo.mouseWatcherNode.is_button_down(self.tke)
+		while dis==True:
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		global Panda0Box
+		dis=Panda0Box.pamo.mouseWatcherNode.is_button_down(self.tke)
+		while dis:
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+			dis=Panda0Box.pamo.mouseWatcherNode.is_button_down(self.tke)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		while dis:
+			self.sano.setPos(-bse,0,0)
+			bse+=1*mopspeed
+			time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+render.attachNewNode(loader.loadModel("teapot"))
+
+ve=render.attachNewNode("tde")
+
+loader.loadModel("teapot").reparentTo(ve)
+
+sano.removeNode()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+print(mopspeed)
+
+print(mopspeed)
+
+print(mopspeed)
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+runi.thago.sleep(14)
+
+Mop1.runi.thago.sleep(14)
+
+Mop1.threading.sleep(14)
+
+import Mop1
+
+from direct.stdpy import threading
+
+
+fin=threading.Thread(target=print("Teaj"))
+
+fin.start()
+
+def bai():
+    print("Gfin")
+
+fin=threading.Thread(target=bai)
+
+from direct.stdpy import threading
+
+def bai():
+    print("Gfin")
+
+fin=threading.Thread(target=bai)
+
+fin.start()
+
+from direct.stdpy import threading
+
+def bai():
+    while True:
+        print("Gfin")
+        threading.sleep(1.4)
+
+fin=threading.Thread(target=bai)
+
+fin.start()
+
+from direct.stdpy import threading
+
+def bai():
+    while True:
+        print("Gfin")
+       fin.sleep(1.4)
+
+fin=threading.Thread(target=bai)
+
+fin.start()
+
+from direct.stdpy import threading
+
+def bai():
+    while True:
+        print("Gfin")
+        fin.sleep(1.4)
+
+fin=threading.Thread(target=bai)
+
+fin.start()
+
+from direct.stdpy import threading
+
+print(globals())
+
+from direct.stdpy import threading
+
+print(threading.__dict__)
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+runi.panra=0
+
+Mop1.runi.panra=0
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+import Mop1
+
+place()
+
+place()
+
+from panda3d.core import *
+
+from panda3d.core import *
+
+place()
+
+from panda3d.core import *
+
+render.place()
+
+direct.directbase.DirectStart
+
+import direct.directbase.DirectStart
+
+from pandac.PandaModules import *
+
+from pandac.PandaModules import *
+
+place()
+
+from pandac.PandaModules import *
+
+render.place()
+
+from pandac.PandaModules import *
+
+sano=loader.loadModel("box").reparentTo(render)
+
+sano.place()
+
+sano.node().place()
+
+sano.removeNode()
+
+sepand1=loader.loadModel("camera.egg")
+
+sepand1.reparentTo(render)
+
+sepand1.place()
+
+import Ango1
+
+import Ango1
+
+import Ango1
+
+sepand1=loader.loadModel("Blsti.egg")
+
+sepand1.reparentTo(render)
+
+sano.removeNode()
+
+sano=loader.loadModel("Bahana.egg")
+
+sano.reparentTo(render)
+
+sto=Texture("Stat")
+
+#sano.setTexture(
+
+from panda3d.core import *
+
+sto=Texture("Stat")
+
+#sano.setTexture(
+
+from panda3d.core import *
+
+print(sto)
+
+from panda3d.core import *
+
+sto.loadTexture("tex/Bao.png")
+
+from panda3d.core import *
+
+sto.load("tex/Bao.png")
+
+sto.load("tex/Bao.png")
+
+sepand1=loader.loadModel("Blsti.egg")
+
+sepand1.reparentTo(render)
+
+sano.removeNode()
+
+sano=loader.loadModel("Bahana.egg")
+
+sano.reparentTo(render)
+
+sano.setTexture(loader.loadTexture("tex/Bao.png"))
+
+sano.removeNode()
+
+sano=loader.loadModel("Sbig.egg")
+
+sano.reparentTo(render)
+
+sano.removeNode()
+
+from direct.actor.Actor import Actor
+
+.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+
+from direct.actor.Actor import Actor
+
+
+sano.reparentTo(render)
+
+from direct.actor.Actor import Actor
+
+sano.loop("Anaib")
+
+from direct.actor.Actor import Actor
+
+sano.stop()
+
+from direct.actor.Actor import Actor
+sano.removeNode()
+
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin","Upb":"Sbig-Diup"})
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin","Upb":"Sbig-Diup"})
+
+		sano=Actor("Sbig.egg",{"Upb":"Sbig-Diup"})
+
+		sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin","Adup":"Sbig-Diup"})
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin","Adup":"Sbig-Diup"})
+
+sano.reparentTo(render)
+
+sano.loop("Adup")
+
+sano.removeNode()
+
+sano=loader.loadModel("camera.egg")
+
+sano.reparentTo(render)
+
+npai=render.attachNewNode(
+sano.instanceTo(npai)
+
+sano=loader.loadModel("camera.egg")
+
+sano.reparentTo(render)
+
+npai=render.attachNewNode("Pincam")
+sano.instanceTo(npai)
+
+sano.removeNode()
+
+sano.removeNode()
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-Hoverin"})
+
+sano.reparentTo(render)
+
+sano.loop("Anaib")
+
+from direct.actor.Actor import Actor
+
+sano=Actor("Sbig.egg",{"Anaib":"Sbig-YGohover"})
+
+sano.reparentTo(render)
+
+sano.loop("Anaib")
+
+import Mop1
+
+Mop1.runi.panra=0
+
+import Lt1
+
+import Lt1
+
+Lt1.run()
+
+loader.loadModel("Sbig.egg").reparentTo(render)
+
+sano.removeNode()
+
+render.clearLight()
+
+from direct.showbase import Loader
+
+from direct.showbase import Loader
+
+cia=Loader()
+
+from direct.showbase import Loader
+
+class avie(Loader):
+    def __init__(self):
+        super.__init__(self)
+  
+
+cia=avie()
+
+from direct.showbase import Loader
+
+class avie(Loader):
+    def __init__(self):
+        super.__init__()
+  
+
+cia=avie()
+
+from direct.showbase import Loader
+
+class avie(Loader):
+    def __init__(self):
+        Loader.__init__(self)
+  
+
+cia=avie()
+
+from direct.showbase import Loader
+
+class avie(Loader):
+    def __init__(self):
+        pass
+  
+
+cia=avie()
+
+from direct.showbase import Loader
+
+
+
+class avie(Loader):
+    def __init__(self):
+        Loader.__init__(self)
+
+class avie(Loader):
+    def __init__():
+        Loader.__init__(self)
+
+class avie():
+    def __init__(self):
+        Loader.__init__(self)
+
+class avie():
+    def __init__(self):
+        Loader.__init__(self)
+
+rieh=avie()
+
+class avie():
+    def __init__(self):
+        Loader.__init__("Eis")
+
+rieh=avie()
+
+class avie():
+    def __init__(self):
+        Loader.__init__("Eis")
+
+rieh=avie()
+
+print(rieh)
+
+class avie():
+    def __init__(self):
+        Loader.__init__("Eis")
+
+rieh=avie()
+
+print(rieh)
+
+rieh.loadModel("smiley.egg")
+
+from direct.showbase import *
+
+class avie(DirectObject):
+    def __init__(self):
+        Loader.__init__("Eis")
+
+rieh=avie()
+
+print(rieh)
+
+rieh.loadModel("smiley.egg")
+
+from direct.showbase import *
+
+class avie(DirectObject):
+    def __init__(self):
+
+rieh=avie()
+
+print(rieh)
+
+rieh.loadModel("smiley.egg")
+
+from direct.showbase import *
+
+class avie(DirectObject):
+    def __init__(self):
+        pass
+
+rieh=avie()
+
+print(rieh)
+
+rieh.loadModel("smiley.egg")
+
+from direct.showbase import *
+
+class ango(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+rieh=avie()
+
+print(rieh)
+
+rieh.loadModel("smiley.egg")
+
+from direct.showbase import *
+
+class ango(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+
+from direct.showbase import *
+
+class ango(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+
+from direct.showbase import *
+
+class ango(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+
+import Ango1
+
+import Mop1
+
+from panda3d.core import *
+
+import Mop1
+
+from direct.showbase.DirectObject import DirectObject
+
+import Mop1
+
+import direct.showbase.DirectObject.DirectObject
+
+import Mop1
+
+import direct.showbase.DirectObject
+
+import Mop1
+
+import direct.showbase.DirectObject.DirectObject
+
+import direct.showbase.DirectObject
+
+import direct.showbase.DirectObject
+
+import direct.showbase.DirectObject
+
+print(DirectObject.DirectObject)
+
+import direct.showbase.DirectObject
+
+print(DirectObject)
+
+
+import Mop1
+
+
+import Mop1
+
+from direct.showbase.DirectObject import DirectObject
+import Mop1
+
+from direct.showbase.DirectObject import DirectObject
+import Mop1
+
+import Mop1
+
+runi.loadModel("smiley.egg")
+
+Mop1.runi.loadModel("smiley.egg")
+
+sepand1=loader.loadModel("Bahana.egg")
+
+import Mop1
+
+import Mop1
