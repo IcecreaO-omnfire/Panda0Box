@@ -9,7 +9,7 @@ class ango():
     def __init__(self):
         self.panra=1
         self.pwa=KeyboardButton.ascii_key("w")
-        self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+        self.sano=Actor("HailPar.egg",{"Anaib":"Sbig-Armsjin"})
         self.thago=threading.Thread(target=self.run)
         self.thago.start()
         self.sano.reparentTo(render)
@@ -23,4 +23,7 @@ class ango():
 
 
 runi=ango()
+
+
+
 

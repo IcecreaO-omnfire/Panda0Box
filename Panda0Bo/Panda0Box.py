@@ -11,14 +11,16 @@ try:
 except:
     pass
 import sys
-import magipanda
+#import magipanda
 from panda3d.core import LVector3
-
+from panda3d.core import *
+import time
 
 nrun=0
 vino="Prompt GoInitialize"
 spout=open("Panddaout.txt","a+")
 mopspeed=1
+vis=time.clock()
 
 class Int2(wx.Frame):
     def __init__(self, *args, **kwds):
@@ -224,7 +226,7 @@ class Int2(wx.Frame):
         hierapio=F2(None,wx.ID_ANY,"")
         hierapio.Show()
         tipe=hierapio.Btin.AddRoot("Render",data=Panda0Box.pamo.render)
-        oftre(hierapio,tipe,render)
+        oftre(hierapio,tipe,Panda0Box.pamo.render)
 
     def inreback(self, event):  # wxGlade: Int2.<event_handler>
         print("Event handler 'inreback' not implemented!")
@@ -390,8 +392,9 @@ class F2(wx.Frame):
 
 def runthe():
     global nrun
-    while nrun==1:
-        Panda0Box.pamo.taskMgr.step()
+    #while nrun==1:
+    Panda0Box.pamo.run()
+        #time.sleep(0.01)
 
 def tefie():
     if Panda0Box.F1.Racinp2.Value==True:
@@ -405,7 +408,7 @@ class IntRun(wx.App):
     def OnInit(self):
         self.F1=Int2(None,wx.ID_ANY,"")
         self.SetTopWindow(self.F1)
-        self.pamo=magipanda.Magip()
+        #self.pamo=magipanda.Fibij().acibim()
         self.F1.Show()
         self.F1.Teout1.AppendText(vino)
         return True
@@ -420,12 +423,13 @@ class oftre():
         except:
             pass
     
-    def nad():
+    def nad(self):
         return self.pasnin
 
 
 
 
 Panda0Box = IntRun(0)
-
+vis=time.clock()-vis
+print(vis)
 Panda0Box.MainLoop()
