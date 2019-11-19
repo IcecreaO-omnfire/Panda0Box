@@ -2980,3 +2980,972 @@ sepand1=loader.loadModel("Bahana.egg")
 import Mop1
 
 import Mop1
+
+import magipanda
+
+Panda0Box.pamo=magipanda.Magip()
+
+import MetMove
+
+MetMove.demo.moving.movimin
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+MetMove.demo.moving.movimin=None
+
+import MetMove
+
+MetMove.runi.move.movmin
+
+
+MetMove.runi.move.movimin
+
+import MetMove
+
+import MetMove
+MetMove.runi.move.movimin
+
+#import MetMove
+MetMove.runi.move.movimin
+
+import MetMove
+MetMove.runi.move.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+MetMove.runi.move.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+Panda0Box.pamo.move.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+Panda0Box.pamo.move.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+Panda0Box.pamo.move.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+Panda0Box.pamo.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+Panda0Box.pamo.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+print(Panda0Box.pamo.movimin)
+
+Panda0Box.pamo.__init__()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving
+print(Panda0Box.pamo.movimin)
+
+Panda0Box.pamo.__init__(Panda0Box.pamo)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+
+Panda0Box.pamo=MetMove.Moving()
+
+
+
+import MetMove
+
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+
+del Panda0Box.pamo.movimin
+
+import MetMove
+
+Panda0Box.pamo.movimin=None
+
+import MetMove
+
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+
+#Panda0Box.pamo.movimin=    
+
+def movbir(self,dt):
+        dt*=4
+        if self.ev>0:
+            if self.keyMap["left"]:
+                self.movint.setH(self.movint.getH() + 200 * dt)
+            if self.keyMap["right"]:
+                self.movint.setH(self.movint.getH() - 200 * dt)
+            if self.keyMap["forward"]:
+                self.movint.setFluidY(self.movint, -25 * dt)          
+            if self.keyMap["back"]:
+                self.movint.setFluidY(self.movint, 25 * dt)
+            if self.keyMap["up"]:
+                self.movint.setFluidZ(self.movint, 25 * dt)
+
+
+import MetMove
+
+Panda0Box.pamo.movimin=movbir    
+
+def movbir(self,dt):
+        dt*=4
+        if self.ev>0:
+            if self.keyMap["left"]:
+                self.movint.setH(self.movint.getH() + 200 * dt)
+            if self.keyMap["right"]:
+                self.movint.setH(self.movint.getH() - 200 * dt)
+            if self.keyMap["forward"]:
+                self.movint.setFluidY(self.movint, -25 * dt)          
+            if self.keyMap["back"]:
+                self.movint.setFluidY(self.movint, 25 * dt)
+            if self.keyMap["up"]:
+                self.movint.setFluidZ(self.movint, 25 * dt)
+
+
+
+import MetMove
+
+Panda0Box.pamo.movimin=movbir    
+
+def movbir(self,dt):
+        dt*=4
+        if self.ev>0:
+            if self.keyMap["left"]:
+                self.movint.setH(self.movint.getH() + 200 * dt)
+            if self.keyMap["right"]:
+                self.movint.setH(self.movint.getH() - 200 * dt)
+            if self.keyMap["forward"]:
+                self.movint.setFluidY(self.movint, -25 * dt)          
+            if self.keyMap["back"]:
+                self.movint.setFluidY(self.movint, 25 * dt)
+            if self.keyMap["up"]:
+                self.movint.setFluidZ(self.movint, 25 * dt)
+
+import MetMove
+
+def movbir(self,dt):
+        dt*=4
+        if self.ev>0:
+            if self.keyMap["left"]:
+                self.movint.setH(self.movint.getH() + 200 * dt)
+            if self.keyMap["right"]:
+                self.movint.setH(self.movint.getH() - 200 * dt)
+            if self.keyMap["forward"]:
+                self.movint.setFluidY(self.movint, -25 * dt)          
+            if self.keyMap["back"]:
+                self.movint.setFluidY(self.movint, 25 * dt)
+            if self.keyMap["up"]:
+                self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.movimin=movbir    
+
+
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+def movbir(self,dt):
+        dt*=4
+        if self.ev>0:
+            if self.keyMap["left"]:
+                self.movint.setH(self.movint.getH() + 200 * dt)
+            if self.keyMap["right"]:
+                self.movint.setH(self.movint.getH() - 200 * dt)
+            if self.keyMap["forward"]:
+                self.movint.setFluidY(self.movint, -25 * dt)          
+            if self.keyMap["back"]:
+                self.movint.setFluidY(self.movint, 25 * dt)
+            if self.keyMap["up"]:
+                self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.movimin=movbir    
+
+
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+def movimin(self,dt):
+        dt*=4
+        if self.ev>0:
+            if self.keyMap["left"]:
+                self.movint.setH(self.movint.getH() + 200 * dt)
+            if self.keyMap["right"]:
+                self.movint.setH(self.movint.getH() - 200 * dt)
+            if self.keyMap["forward"]:
+                self.movint.setFluidY(self.movint, -25 * dt)          
+            if self.keyMap["back"]:
+                self.movint.setFluidY(self.movint, 25 * dt)
+            if self.keyMap["up"]:
+                self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.movimin=movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo.movimin
+
+import MetMove
+def movimin(self,dt):
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+
+
+Panda0Box.pamo.movimin
+
+import MetMove
+def movimin(self,dt):
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+
+
+Panda0Box.pamo.movimin=movimin
+
+import MetMove
+def movimin(self,dt):
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+import MetMove
+def movimin(self,dt):
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+def movimin(self,dt):
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+def movimin(self,dt):
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+def movimin(self):
+  print(self)
+
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+def movimin(self):
+  print(self)
+
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+print(Panda0Box.pamo.movimin)
+
+import MetMove
+def movimin(self):
+  print(self)
+
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+#print(Panda0Box.pamo.movimin)
+
+Panda0Box.pamo.movimin()
+
+import MetMove
+def movimin(self):
+  print(self)
+
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+#print(Panda0Box.pamo.movimin)
+
+Panda0Box.pamo.movimin(Panda0Box.pamo)
+
+import MetMove
+def movimin(self):
+  print(self)
+
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.movimin=movimin
+
+#print(Panda0Box.pamo.movimin)
+
+Panda0Box.pamo.movimin(Panda0Box.pamo)
+
+import MetMove
+def movimin(self):
+  print(self)
+
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=movimin
+
+#print(Panda0Box.pamo.movimin)
+
+#Panda0Box.pamo.movimin(Panda0Box.pamo)
+
+import MetMove
+def movimin(self):
+  print(self)
+
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=movimin
+
+#print(Panda0Box.pamo.movimin)
+
+#Panda0Box.pamo.movimin(Panda0Box.pamo)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+print(Panda0Box.pamo.toi)
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=movimin
+
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=MetMove.movimin
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=movimin
+
+import MetMove
+#Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+def movimin(self,dt):
+    dt*=7.4
+    if self.ev>0:
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
+
+Panda0Box.pamo.toi=MetMove.movimin
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+#Panda0Box.pamo.toi=Panda0Box.pamo.movimin
+
+#print(Panda0Box.pamo.toi)
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+self.cited.getEntry(0).getIntoNodePath()
+
+import MetMove
+
+
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MetMove
+
+import MouseMove
+
+import MouseMove
+
+Panda0Box.pamo=MouseMove.Posrun()
+
+import Lt1
+Lt1.run()
+
+loader.loadModel("Pancakes_N1").reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+import MouseMove
+
+Panda0Box.pamo=MouseMove.Posrun()
+
+print(mopspeed)
+
+print(mopspeed)
+
+mopspeed=.1
+
+sano=loader.loadModel("BlastPow")
+
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano.removeNode()
+
+sano=loader.loadModel("BlastPow")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano.removeNode()
+
+sano=loader.loadModel("BlastPow")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano.setScale(.2)
+
+render.find("MailBoxing.egg").setVectorMasks(0)
+
+render.find("MailBoxing.egg").node().setVectorMasks(0)
+
+import MouseMove
+
+Panda0Box.pamo=MouseMove.Posrun()
+
+
+sano=loader.loadModel('box")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("box")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("box")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("box")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("box")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+import MouseMove
+
+Panda0Box.pamo=MouseMove.Posrun()
+
+
+import MouseMove
+
+Panda0Box.pamo=MouseMove.Posrun()
+
+sano=loader.loadModel("Pancakes_N1")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("Pancakes_N1")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("Pancakes_N1")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("Pancakes_N1")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("Pancakes_N1")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("Pancakes_N1")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano=loader.loadModel("BlastPow")
+sano.reparentTo(render)
+
+Panda0Box.pamo.selectmo=sano
+
+sano.setScale(.3)
+
+mopspeed=.1

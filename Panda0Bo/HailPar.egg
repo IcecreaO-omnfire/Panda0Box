@@ -16,6 +16,7 @@
 }
 
   <Group> HailPar {
+	<Collide> {Polyset keep descend }
     <Transform> {
       <Matrix4> {
         1.0 3.2584136988589307e-07 1.0410971071905806e-06 0.0 

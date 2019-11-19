@@ -124,7 +124,8 @@ class Moving(ShowBase):
         # Create some lighting
         directionalLight = DirectionalLight("directionalLight")
         directionalLight.setDirection((-5, -5, -5))
-        render.setLight(render.attachNewNode(directionalLight))
+        render.setLight(render.attachNewNode(directionalLight))        
+
 
     # Records the state of the arrow keys
     def setKey(self, key, value):
@@ -142,29 +143,32 @@ class Moving(ShowBase):
         self.anr=self.an.getPhysicsObject()
 
         print(self.anr.getVelocity())
-        
+
         if dt<=.2:
             self.mopan.doPhysics(dt)
-
-
-
-            if self.keyMap["left"]:
-                self.movint.setH(self.movint.getH() + 200 * dt)
-            if self.keyMap["right"]:
-                self.movint.setH(self.movint.getH() - 200 * dt)
-            if self.keyMap["forward"]:
-                self.movint.setY(self.movint, -25 * dt)          
-            if self.keyMap["back"]:
-                self.movint.setY(self.movint, 25 * dt)
-            if self.keyMap["up"]:
-                self.movint.setZ(self.movint, 25 * dt)
+    
+        if self.keyMap["left"]:
+            self.movint.setH(self.movint.getH() + 200 * dt)
+        if self.keyMap["right"]:
+            self.movint.setH(self.movint.getH() - 200 * dt)
+        if self.keyMap["forward"]:
+            self.movint.setFluidY(self.movint, -25 * dt)          
+        if self.keyMap["back"]:
+            self.movint.setFluidY(self.movint, 25 * dt)
+        if self.keyMap["up"]:
+            self.movint.setFluidZ(self.movint, 25 * dt)
         
-
+        try:
+            self.selemo=base.mouseWatcherNode.getMouse()
+            self.seleray.setFromLens(base.camNode,self.selemo.getX(),self.selemo.getY())
+        except:
+            pass
 
         # Normally, we would have to call traverse() to check for collisions.
         # However, the class ShowBase that we inherit from has a task to do
         # this for us, if we assign a CollisionTraverser to self.cTrav.
         #self.cTrav.traverse(render)
+        
 
         return task.cont
 

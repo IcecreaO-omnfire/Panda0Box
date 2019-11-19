@@ -408,7 +408,7 @@ class IntRun(wx.App):
     def OnInit(self):
         self.F1=Int2(None,wx.ID_ANY,"")
         self.SetTopWindow(self.F1)
-        #self.pamo=magipanda.Fibij().acibim()
+        #self.pamo=magipanda.Magip()
         self.F1.Show()
         self.F1.Teout1.AppendText(vino)
         return True
