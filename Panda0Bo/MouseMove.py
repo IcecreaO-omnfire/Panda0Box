@@ -18,13 +18,13 @@ class Posrun(ShowBase):
         self.selpan=CollisionTraverser()
         self.selpan.addCollider(self.selepath,self.cited)
         
-        self.selectmo = loader.loadModel("MailBoxing")
+        self.selectmo = loader.loadModel("EggMod/MailBoxing")
 
         self.selectmo.reparentTo(render)
         taskMgr.add(self.selectstart, "MouseMoving")
         self.accept("enter",self.moviselect)
 
-        self.selectmo=loader.loadModel("Pancakes_N1")
+        self.selectmo=loader.loadModel("EggMod/Pancakes_N1")
         self.selectmo.reparentTo(render)
 
 
@@ -57,5 +57,5 @@ class Posrun(ShowBase):
         except:
             pass
            
-SelectMoving=Posrun()
-SelectMoving.run()
+#SelectMoving=Posrun()
+#SelectMoving.run()

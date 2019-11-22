@@ -11,10 +11,10 @@ try:
 except:
     pass
 import sys
-#import magipanda
 from panda3d.core import LVector3
 from panda3d.core import *
 import time
+import magipanda
 
 nrun=0
 vino="Prompt GoInitialize"
@@ -392,9 +392,9 @@ class F2(wx.Frame):
 
 def runthe():
     global nrun
-    #while nrun==1:
-    Panda0Box.pamo.run()
-        #time.sleep(0.01)
+    while nrun==1:
+        Panda0Box.pamo.taskMgr.step()
+        time.sleep(0.01)
 
 def tefie():
     if Panda0Box.F1.Racinp2.Value==True:
@@ -408,7 +408,7 @@ class IntRun(wx.App):
     def OnInit(self):
         self.F1=Int2(None,wx.ID_ANY,"")
         self.SetTopWindow(self.F1)
-        #self.pamo=magipanda.Magip()
+        self.pamo=magipanda.Magip()
         self.F1.Show()
         self.F1.Teout1.AppendText(vino)
         return True

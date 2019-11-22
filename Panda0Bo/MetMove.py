@@ -74,6 +74,7 @@ class Moving(ShowBase):
 
 
         self.cTrav = CollisionTraverser()
+        #base.cTrav.setRespectPrevTransform(True)
         
 
         self.actMove = NodePath("ActMove")
@@ -144,7 +145,7 @@ class Moving(ShowBase):
 
         print(self.anr.getVelocity())
 
-        if dt<=.2:
+        if dt>0:
             self.mopan.doPhysics(dt)
     
         if self.keyMap["left"]:
