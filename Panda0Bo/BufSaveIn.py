@@ -70,7 +70,7 @@ class Moving(ShowBase):
         self.arin = AngularEulerIntegrator()
         self.mopan.attachAngularIntegrator(self.arin)
         
-        taskMgr.add(self.move, "moveTask")
+        #taskMgr.add(self.move, "moveTask")
 
 
         self.cTrav = CollisionTraverser()
@@ -143,21 +143,22 @@ class Moving(ShowBase):
         self.dvi+=dt
         self.anr=self.an.getPhysicsObject()
 
-        #print(self.anr.getVelocity())
+        print(self.anr.getVelocity())
 
         if dt<=.2:
             self.mopan.doPhysics(dt)
     
         if self.keyMap["left"]:
-            self.movint.setH(self.movint.getH() + 200 * dt)
+            self.movint.setH(self.movint.getH() + 210 * dt)
         if self.keyMap["right"]:
-            self.movint.setH(self.movint.getH() - 200 * dt)
+            self.movint.setH(self.movint.getH() - 210 * dt)
         if self.keyMap["forward"]:
-            self.movint.setFluidY(self.movint, -25 * dt)          
+            self.movint.setFluidY(self.movint, -30 * dt)          
         if self.keyMap["back"]:
-            self.movint.setFluidY(self.movint, 25 * dt)
+            self.movint.setFluidY(self.movint, 30 * dt)
         if self.keyMap["up"]:
-            self.movint.setFluidZ(self.movint, 25 * dt)
+            self.movint.setFluidZ(self.movint, 30 * dt)
+        
 
         # Normally, we would have to call traverse() to check for collisions.
         # However, the class ShowBase that we inherit from has a task to do
@@ -168,4 +169,5 @@ class Moving(ShowBase):
         return task.cont
 
 
-
+#demo = Moving()
+#demo.run()
