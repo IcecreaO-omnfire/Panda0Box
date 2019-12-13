@@ -21,6 +21,8 @@ class panter(wx.Frame):
 		self.SetSize((1616, 876))
 		self.panint = wx.TextCtrl(self, wx.ID_ANY, "", style=wx.TE_MULTILINE | wx.TE_PROCESS_ENTER | wx.TE_PROCESS_TAB)
 		self.panint4 = wx.TextCtrl(self, wx.ID_ANY, "", style=wx.TE_MULTILINE | wx.TE_PROCESS_ENTER | wx.TE_PROCESS_TAB)
+        #RichTextBox(parent=self.panint4)
+        
 
 		self.__set_properties()
 		self.__do_layout()

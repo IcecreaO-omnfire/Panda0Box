@@ -143,7 +143,7 @@ class Moving(ShowBase):
         self.dvi+=dt
         self.anr=self.an.getPhysicsObject()
 
-        #print(self.anr.getVelocity())
+        print(self.anr.getVelocity())
 
         if dt<=.2:
             self.mopan.doPhysics(dt)

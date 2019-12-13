@@ -5772,3 +5772,1640 @@ sano.setHpr(0,0,0)
 
 
 
+
+from panda3d.core import *
+
+class anga(PandaNode):
+    def __init__(self,nape):
+		PandaNode.__init__(self)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend():
+		self.namp=loader.loadModel(nape)
+		self.namp.reparentTo(render)
+
+class anga(PandaNode):
+    def __init__(self,nape):
+		PandaNode.__init__(self)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend():
+		self.namp=loader.loadModel(nape)
+		self.namp.reparentTo(render)
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend():
+		self.namp=loader.loadModel(nape)
+		self.namp.reparentTo(render)
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend():
+		self.namp=loader.loadModel(nape)
+		self.namp.reparentTo(render)
+		return self.namp
+
+anga("jack")
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend():
+		self.namp=loader.loadModel(nape)
+		self.namp.reparentTo(render)
+		return self.namp
+
+anga("jack")
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(nape)
+		self.namp.reparentTo(render)
+		return self.namp
+
+anga("jack")
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+
+anga("jack")
+
+
+sano.removeNode()
+#anga("jack")
+
+
+
+sano=anga("jack")
+
+
+
+sano=anga("jack")
+
+
+
+#sano=anga("jack")sano.removeNode()
+
+
+
+#sano=anga("jack")sano.removeNode()
+
+
+
+#sano=anga("jack")sano.removeNode()
+
+
+
+#sano=anga("jack")sano.removeNode()
+
+
+
+#sano=anga("jack")sano.removeNode()
+
+
+
+#sano=anga("jack")sano.removeNode()
+
+
+
+#sano=anga("jack")
+sano
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+#sano=anga("jack")
+
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+#sano=anga("jack")
+sano.removeNode()
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+#sano=anga("jack")
+sano.removeNode()
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+#sano=anga("jack")
+sano.removeNode()
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+sano=anga("jack")
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+sano.statein
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+sano.statein
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+sano.statein
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+sano.statein
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+print(sano)
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+print(sano)
+sano.removeNode()
+
+class anga(PandaNode):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+
+print(sano)
+sano.node().removeNode()
+
+class anga(PandaNodePath):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+sano.node().removeNode()
+
+class anga(PandaNodePath):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+sano.node().removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+sano.node().removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		PandaNode.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano=anga("box")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano=anga("box")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano=anga("box")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano=anga("camera")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.statein
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self.namp
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.statein
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.statein
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano=anga("EggMod/Bahanana_be")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+print(sano)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+sano=anga("box")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+print(sano)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+print(sano.namp)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+sano.namp.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+print(typeof(sano))
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+print(type(sano))
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+sano.loadRend()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+print(sano)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+sano.removeNode()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+sano=anga("EggMod/BlastPow")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+sano.remove()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+sano
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+sano
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		del self
+
+print(sano)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		self.remove()
+
+nas=anga("box")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def remove(self):
+		self.namp.removeNode()
+		self.remove()
+
+nas.remove()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.namp.removeNode()
+		self.remove()
+
+nas=anga("EggMod/N1_Pancakes")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.namp.removeNode()
+		self.remove()
+
+nas=anga("EggMod/Pancakes_N1")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.namp.removeNode()
+		self.remove()
+
+nas.removem()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.namp.removeNode()
+		self.remove()
+
+print(nas)
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.namp.removeNode()
+		self.remove_node()
+
+nas=anga("EggMod/HailPar")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.namp.removeNode()
+		self.remove_node()
+
+nas.removem()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.remove_node()
+
+nas=anga("EggMod/HailPar")
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.remove_node()
+
+nas.removem()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.remove_node()
+
+nas.removem()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.remove_node()
+
+nas.removem()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.remove_node()
+
+nas.removem()
+
+class anga(NodePath):
+	def __init__(self,nape):
+		
+		NodePath.__init__(self,nape)
+		self.nape=nape
+		self.namp=None
+		self.loadRend()
+	def loadRend(self):
+		self.namp=loader.loadModel(self.nape)
+		self.namp.reparentTo(render)
+		return self
+		
+	@property
+	def statein(self):
+		print(self.namp)
+		
+	def removem(self):
+		self.remove_node()
+
+print(nas)
